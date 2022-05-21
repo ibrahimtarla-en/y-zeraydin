@@ -1,2 +1,2 @@
-# y-zeraydin
+# yuzeraydin
 Yüzer Aydın Hukuk Danışmanlık
